@@ -1,3 +1,4 @@
+//   Call Back Function -------------------------//
 function One(name){
     console.log(`Hellom I am ${name}`)
 }
@@ -12,6 +13,9 @@ two(One)
 const a={name:'prathmesh',age:'22'}
 
 console.log(a)
+
+
+//   Class Property Inheritance -------------------------//
 
 function Objj(name,city){
     this.name=name,
